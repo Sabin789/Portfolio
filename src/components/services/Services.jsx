@@ -54,6 +54,30 @@ const Services = () => {
                Bootstrap
               </p>
             </li>
+            <li>
+              <BsFillCheckCircleFill className='service__list-icon' />
+              <p>
+                Typescript
+              </p>
+            </li>
+            <li>
+              <BsFillCheckCircleFill className='service__list-icon' />
+              <p>
+                C
+              </p>
+            </li>
+            <li>
+              <BsFillCheckCircleFill className='service__list-icon' />
+              <p>
+                C++
+              </p>
+            </li>
+            <li>
+              <BsFillCheckCircleFill className='service__list-icon' />
+              <p>
+                C#
+              </p>
+            </li>
           </ul>
         </article>
         <article className="service">
@@ -65,12 +89,6 @@ const Services = () => {
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
                 Javascript
-              </p>
-            </li>
-            <li>
-              <BsFillCheckCircleFill className='service__list-icon' />
-              <p>
-                Typescript
               </p>
             </li>
             <li>
@@ -103,6 +121,30 @@ const Services = () => {
                 Socket.io
               </p>
             </li>
+            <li>
+              <BsFillCheckCircleFill className='service__list-icon' />
+              <p>
+                C
+              </p>
+            </li>
+            <li>
+              <BsFillCheckCircleFill className='service__list-icon' />
+              <p>
+                C++
+              </p>
+            </li>
+            <li>
+              <BsFillCheckCircleFill className='service__list-icon' />
+              <p>
+                C#
+              </p>
+            </li>
+            <li>
+              <BsFillCheckCircleFill className='service__list-icon' />
+              <p>
+                Python
+              </p>
+            </li>
           </ul>
         </article>
         <article className="service">
@@ -126,6 +168,12 @@ const Services = () => {
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
                 PostgresSQL
+              </p>
+            </li>
+            <li>
+              <BsFillCheckCircleFill className='service__list-icon' />
+              <p>
+                Sequlize
               </p>
             </li>
            

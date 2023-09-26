@@ -3,9 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/image1.png'
 import IMG2 from '../../assets/image2.png'
 import IMG3 from '../../assets/iamge3.png'
-import IMG4 from '../../assets/img-portfolio4.png'
-import IMG5 from '../../assets/img-portfolio5.png'
-import IMG6 from '../../assets/img-portfolio6.png'
+
 
 // Data Array para preenhcer o portfolio
 const portfolioData = [
