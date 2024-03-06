@@ -15,13 +15,10 @@ export default function Header() {
         <h3 className="mono text-light">
          
         </h3>
-        {/* <h4 className="text-light">
-          Projetos de tecnologia, marketing e educação
-        </h4> */}
         <CTA />
         <SocialIcons position='header__socialicons' />
         <div className="me">
-          <img className='me-pic' src={ME} alt="André Tavares Fotografando" />
+          <img className='me-pic' src={ME}/>
         </div>
         <a href="#contact" className='scroll__down'>
           Scroll

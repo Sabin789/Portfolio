@@ -33,7 +33,7 @@ const portfolioData = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5 className='text-light'>Some of my work</h5>
+      <h5 className='text-light'>Some of my software development work</h5>
       <h2 className="text-light">
         Portfolio
       </h2>

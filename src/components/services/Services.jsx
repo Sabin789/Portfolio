@@ -9,12 +9,12 @@ const Services = () => {
         What I can do
       </h5>
       <h2 className="text-light">
-        Services
+        Skills
       </h2>
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>Frontend</h3>
+            <h3>Technical Skills</h3>
           </div>
           <ul className="service__list">
             <li>
@@ -32,13 +32,13 @@ const Services = () => {
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                React
+                Python
               </p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                Vite
+                Django
               </p>
             </li>
             <li>
@@ -51,7 +51,7 @@ const Services = () => {
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-               Bootstrap
+               SQL
               </p>
             </li>
             <li>
@@ -63,117 +63,81 @@ const Services = () => {
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                C
-              </p>
-            </li>
-            <li>
-              <BsFillCheckCircleFill className='service__list-icon' />
-              <p>
-                C++
-              </p>
-            </li>
-            <li>
-              <BsFillCheckCircleFill className='service__list-icon' />
-              <p>
-                C#
+                C, C++, C#
               </p>
             </li>
           </ul>
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Backend</h3>
+            <h3>Soft Skills</h3>
           </div>
           <ul className="service__list">
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                Javascript
+                Communication
               </p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                Node.js
+                Problem Solving
               </p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                Express.js
+                Collaboration
               </p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                Restful APIs
+                Adapatability
               </p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                Typescript
-              </p>
-            </li>
-            <li>
-              <BsFillCheckCircleFill className='service__list-icon' />
-              <p>
-                Socket.io
-              </p>
-            </li>
-            <li>
-              <BsFillCheckCircleFill className='service__list-icon' />
-              <p>
-                C
-              </p>
-            </li>
-            <li>
-              <BsFillCheckCircleFill className='service__list-icon' />
-              <p>
-                C++
-              </p>
-            </li>
-            <li>
-              <BsFillCheckCircleFill className='service__list-icon' />
-              <p>
-                C#
-              </p>
-            </li>
-            <li>
-              <BsFillCheckCircleFill className='service__list-icon' />
-              <p>
-                Python
+              Time Management
               </p>
             </li>
           </ul>
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Databases</h3>
+            <h3>Cybersecurity Tools</h3>
           </div>
           <ul className="service__list">
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                MongoDB
+                Wireshark
               </p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                Mongoose
+                TCPdump
               </p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                PostgresSQL
+                Splunk
               </p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon' />
               <p>
-                Sequlize
+                Chronicle
+              </p>
+            </li>
+            <li>
+              <BsFillCheckCircleFill className='service__list-icon' />
+              <p>
+                NMAP
               </p>
             </li>
            
