@@ -11,7 +11,7 @@ const About = () => {
         <div className="container about__container">
           <div className="about__content">
             <p>
-          I am a 22 years old entry level data analyst. I have started coding
+          I am a 23 years old entry level data analyst. I have started coding
           doing the free online courses from freecodecamp and then enrolled in the 
           six month long bootcamp of Epidoce where I have been shown how to be a web developer 
           from scratch and got familiar with the basics and then the more advanced 
