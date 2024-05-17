@@ -1,4 +1,4 @@
-.about__container {
+/* .about__container {
     display:grid;
     grid-template-columns: 35% 50%;
     gap:15%;
@@ -50,10 +50,11 @@
 
 .about__content p {
     margin: 2rem 0 2.6rem;
-}
+}*/
 .btn-primary{
-    margin-left: 6em;
-}
+    margin-left: 42.5%;
+    margin-top:10%;
+} 
 
 /* Media Queries MD */
 @media screen and (max-width: 1024px) {
@@ -74,8 +75,7 @@
         margin: 1.2rem 0 1.6rem;
     }
     .btn{
-        text-align: center;
-        margin-left: 3em;
+        margin-right:20%;
     }
 }
 
